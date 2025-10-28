@@ -55,7 +55,7 @@ These are not features. They are a **system**—remove one and it collapses.
 - 10-Year Financial Model ($5T TVL, $250B valuation)
 
 
-**Medium Article**: [The $150B Problem Every Exchange Is Ignoring](https://medium.com/@trinityprotocol)
+**Medium Article**: [The $150B Problem Every Exchange Is Ignoring](https://medium.com/@trinityprotocol.labs/the-150b-problem-every-exchange-is-ignoring-b699aec21ea2)
 
 ---
 
