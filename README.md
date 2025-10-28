@@ -43,15 +43,17 @@ These are not features. They are a **system**—remove one and it collapses.
 
 ## 📄 Full Documentation
 
-**📥 [Download Whitepaper (PDF, 30 pages)](./docs/Trinity_Protocol_v1.0.pdf)**
+## 📄 Full Documentation
 
-**Contents**:
+📥 [Download Whitepaper (PDF, 30 pages)](./docs/TRINITY_PROTOCOL.pdf)
+
+**Contents:**
 - Market Analysis (RWA, DeFi, CEX convergence)
 - Technical Architecture (4-layer stack)
 - 5 Blackhole Mechanisms (detailed)
 - Competitive Analysis (vs Circle, BlackRock, Ondo)
 - 10-Year Financial Model ($5T TVL, $250B valuation)
-- Legal Framework (GENIUS Act compliance)
+
 
 **Medium Article**: [The $150B Problem Every Exchange Is Ignoring](https://medium.com/@trinityprotocol)
 
